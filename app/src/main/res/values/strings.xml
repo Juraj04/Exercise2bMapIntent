@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise2b</string>
+    <string name="twHeading">Give a location (lat, lng)</string>
+    <string name="btnShowMap">Show map</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+</resources>
